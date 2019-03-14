@@ -1,0 +1,16 @@
+{
+   "name":"buldurmert/translate-helper",
+   "description": "Basic yandex translate api helper",
+   "authors": [{
+     "name": "Mert Buldur",
+     "email": "buldurmert@gmail.com"
+   }],
+  "require": {
+
+  },
+  "autoload": {
+    "psr-4": {
+      "TranslateAPI\\": "src//"
+    }
+  }
+}
